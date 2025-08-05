@@ -36,7 +36,7 @@ namespace csharp_fundamentals_class_members.Main
 
         //TODO: 4. Change the value below so that the tests pass. Check the README.md file for instructions on
         // running and reading tests
-        public int firstNumber = 109;
+        public int firstNumber = 9182;
 
 
 
