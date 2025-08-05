@@ -25,10 +25,12 @@ namespace csharp_fundamentals_class_members.Main
 
 
         //TODO: 2. Create a String member named firstName with a value of "Jane"
+        public string firstName = "Jane";
 
 
 
         //TODO: 3. Create a boolean member named isProgrammer with a value of true
+        public bool isProgrammer = true;
 
 
 
@@ -45,6 +47,6 @@ namespace csharp_fundamentals_class_members.Main
 
 
         //TODO: 6. Change the visibility below so that the tests pass
-        private bool isVisible = true;
+        public bool isVisible = true;
     }
 }
