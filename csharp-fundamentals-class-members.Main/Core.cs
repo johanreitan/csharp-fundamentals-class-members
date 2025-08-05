@@ -20,7 +20,7 @@ namespace csharp_fundamentals_class_members.Main
 
 
         //TODO: 1. Create an integer member named age with a value of 32
-        public int age = 33;
+        public int age = 32;
 
 
 
@@ -41,7 +41,7 @@ namespace csharp_fundamentals_class_members.Main
 
 
         //TODO: 5. Change the value below so that the tests pass
-        public string firstString = "Ruby is to Python what car is to carpet.";
+        public string firstString = "Java is to Javascript what car is to carpet.";
 
 
 
